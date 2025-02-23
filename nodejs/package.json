@@ -1,0 +1,23 @@
+{
+  "name": "cma4w",
+  "version": "0.0.0",
+  "description": "Eh.",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "maia-util": "0.3.7",
+    "csv-parser": "^3.0.0",
+    "nodeplotlib": "^1.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "AGPL-3.0-or-later",
+  "keywords": [
+    "plotting"
+  ]
+}
