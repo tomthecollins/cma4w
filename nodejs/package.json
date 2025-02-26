@@ -8,7 +8,8 @@
     "dotenv": "^16.0.3",
     "maia-util": "0.3.7",
     "csv-parser": "^3.0.0",
-    "nodeplotlib": "^1.1.2"
+    "nodeplotlib": "^1.1.2",
+    "@tonejs/midi": "^2.0.27"
   },
   "engines": {
     "node": "12.x"
