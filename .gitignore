@@ -5,8 +5,10 @@ node_modules/
 .DS_Store
 
 # Audio
+*.m4a
 *.mp3
 *.wav
+*.asd
 
 # Symbolic
 *.mid
@@ -14,11 +16,17 @@ node_modules/
 *.musicxml
 *.xml
 
+# Studio files
+*.logicx
+*.aup3
+*.mpd
+*.als
+
 # Images
 *.png
 
 # Data directories
-
+io/
 
 # Data files maybe?
 # *.json

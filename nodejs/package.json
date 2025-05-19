@@ -1,24 +1,19 @@
 {
   "name": "cma4w",
   "version": "0.0.0",
-  "description": "Eh.",
+  "description": "Repo to support the book \"Coding music and audio for the web: Empowerment through programming\".",
   "main": "index.js",
   "scripts": {},
   "dependencies": {
     "dotenv": "^16.0.3",
-    "maia-util": "0.3.7",
+    "maia-util": "^0.3.18",
+    "maia-markov": "^0.1.12",
     "csv-parser": "^3.0.0",
     "nodeplotlib": "^1.1.2",
     "@tonejs/midi": "^2.0.27"
   },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": ""
-  },
+  "engines": { "node": "12.x" },
+  "repository": { "url": "https://github.com/tomthecollins/cma4w" },
   "license": "AGPL-3.0-or-later",
-  "keywords": [
-    "plotting"
-  ]
+  "keywords": ["music", "audio"]
 }
